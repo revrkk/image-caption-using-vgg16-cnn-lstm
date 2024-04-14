@@ -1,0 +1,9 @@
+numpy
+tqdm
+tensorflow
+Pillow
+jupyter
+ipywidgets
+pydot
+nltk
+matplotlib
